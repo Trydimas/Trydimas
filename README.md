@@ -1,6 +1,7 @@
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;">
-<iframe src="https://giphy.com/embed/6rBtU3xUwKVo4l2Rj0" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/9UY4ZpELlI7lv6t2gb/giphy.gif" width="200"/>
 </div>
-<p>
-<a href="https://giphy.com/gifs/wow-movpicsho-moving-picture-show-6rBtU3xUwKVo4l2Rj0">via GIPHY</a>
-</p>
+<div id="badges" align="center">
+  <a href="https://vk.com/trydimas">
+    <img src="https://img.shields.io/badge/VK-black?logo=VK&logoColor=red&style=for-the-badge" alt="VK Badge"/>
+  </a>
