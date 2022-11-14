@@ -6,9 +6,5 @@
     <img src="https://img.shields.io/badge/VK-black?logo=VK&logoColor=red&style=for-the-badge" alt="VK Badge"/>
   </a>
 </div>
-<div id="badges" align="center">
-  <a href="https://vk.com/trydimas">
-    <img src="https://img.shields.io/badge/VK-black?logo=VK&logoColor=red&style=for-the-badge" alt="VK Badge"/>
-  </a>
-</div>
+
 
